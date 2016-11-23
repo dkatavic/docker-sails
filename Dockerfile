@@ -1,5 +1,5 @@
-FROM node:4.4.5
-MAINTAINER Domagoj Katavic "domo1503@gmail.com"
+FROM node
+MAINTAINER Domagoj Katavic "domo.katavic@gmail.com"
 
 RUN npm install -g sails
 
